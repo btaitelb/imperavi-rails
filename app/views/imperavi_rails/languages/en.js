@@ -58,5 +58,8 @@ var RLANG = {
 	video_html_code: 'Video embed code',
 	file: 'File',	
 	upload: 'Upload',
-	download: 'Download'	
+	download: 'Download',
+	choose: 'Choose',
+	drop_file_here: 'Drop file here',
+	or_choose: 'Or choose'
 };
